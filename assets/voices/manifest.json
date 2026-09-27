@@ -1,0 +1,1811 @@
+{
+  "cicero": {
+    "lines": {
+      "Bem feito!": "cicero/line_r809u9.mp3",
+      "No meu tempo era assim": "cicero/line_o6tao3.mp3",
+      "Aprende, moleque!": "cicero/line_ihq4y1.mp3",
+      "Quem mandou não respeitar os mais velhos?": "cicero/line_11vqxvw.mp3",
+      "Que absurdo!": "cicero/line_mfvcx.mp3",
+      "Isso é marmelada!": "cicero/line_1kwol8x.mp3",
+      "Roubaram o velho!": "cicero/line_1vsfe8c.mp3",
+      "Onde já se viu uma coisa dessas?": "cicero/line_19zjcye.mp3",
+      "Experiência, meu filho": "cicero/line_18f315o.mp3",
+      "Hunf.": "cicero/line_3pa8ec.mp3",
+      "Cabelo branco não é à toa.": "cicero/line_1ikcy7v.mp3",
+      "Tá vendo? É assim que se joga.": "cicero/line_jl5bv1.mp3",
+      "Baralho viciado...": "cicero/line_n1inlz.mp3",
+      "Ninguém respeita os mais velhos": "cicero/line_cj4l2u.mp3",
+      "Essas cartas modernas não prestam.": "cicero/line_wj4d9h.mp3",
+      "Foi a vista. Não enxerguei direito.": "cicero/line_13i1r37.mp3",
+      "Embuchou, tá vendo?": "cicero/line_185f2op.mp3",
+      "Embuchou! Que coisa!": "cicero/line_10jiggp.mp3",
+      "Embuchou... no meu tempo não tinha isso.": "cicero/line_10k0h0w.mp3",
+      "Embuchou. Que bagunça!": "cicero/line_6x12zw.mp3",
+      "Ninguém cobre? Vai sobrar pro velho!": "cicero/line_geht4v.mp3",
+      "Cadê a juventude pra me cobrir?": "cicero/line_alyfmv.mp3",
+      "Vão deixar essa pra mim? Que desaforo!": "cicero/line_tv9di2.mp3",
+      "E ninguém cobre? Juventude preguiçosa!": "cicero/line_fudm4c.mp3",
+      "Me cobriram? Agora vou levar todas. Hunf.": "cicero/line_1r9f6qz.mp3",
+      "Tudo ou nada. No meu tempo era assim!": "cicero/line_9j7vpi.mp3",
+      "Cobriram o velho? Agora é tudo ou nada!": "cicero/line_1qsnqso.mp3",
+      "Agora é tudo ou nada. Segura o velho!": "cicero/line_1eehrov.mp3",
+      "Manilha em cima do velho? Covardia!": "cicero/line_mweox1.mp3",
+      "Gastou manilha comigo, moleque?": "cicero/line_1cr39tf.mp3",
+      "Isso é jeito de tratar os mais velhos?": "cicero/line_oa97tm.mp3",
+      "Manilha em mim? Que falta de educação!": "cicero/line_1py5bt7.mp3",
+      "Vai jogar ou vai ficar me olhando?": "cicero/line_jxtf3r.mp3",
+      "No meu tempo o baralho era de papelão, e a gente era feliz!": "cicero/line_cvp3g3.mp3",
+      "Hunf. Mais um querendo apanhar.": "cicero/line_o2igho.mp3",
+      "Fala mais alto, que eu não escuto!": "cicero/line_r4jzvc.mp3"
+    },
+    "bets": {
+      "0": [
+        "cicero/bet_0_0.wav",
+        "cicero/bet_0_1.mp3",
+        "cicero/bet_0_2.mp3"
+      ],
+      "1": [
+        "cicero/bet_1_0.mp3",
+        "cicero/bet_1_1.mp3",
+        "cicero/bet_1_2.mp3"
+      ],
+      "2": [
+        "cicero/bet_2_0.mp3",
+        "cicero/bet_2_1.mp3",
+        "cicero/bet_2_2.mp3"
+      ],
+      "3": [
+        "cicero/bet_3_0.mp3",
+        "cicero/bet_3_1.mp3",
+        "cicero/bet_3_2.mp3"
+      ],
+      "4": [
+        "cicero/bet_4_0.mp3",
+        "cicero/bet_4_1.mp3",
+        "cicero/bet_4_2.mp3"
+      ],
+      "5": [
+        "cicero/bet_5_0.mp3",
+        "cicero/bet_5_1.mp3",
+        "cicero/bet_5_2.mp3"
+      ],
+      "6": [
+        "cicero/bet_6_0.mp3",
+        "cicero/bet_6_1.mp3",
+        "cicero/bet_6_2.mp3"
+      ],
+      "7": [
+        "cicero/bet_7_0.mp3",
+        "cicero/bet_7_1.mp3",
+        "cicero/bet_7_2.wav"
+      ],
+      "8": [
+        "cicero/bet_8_0.mp3",
+        "cicero/bet_8_1.mp3",
+        "cicero/bet_8_2.mp3"
+      ],
+      "9": [
+        "cicero/bet_9_0.mp3",
+        "cicero/bet_9_1.mp3",
+        "cicero/bet_9_2.mp3"
+      ],
+      "10": [
+        "cicero/bet_10_0.mp3",
+        "cicero/bet_10_1.mp3",
+        "cicero/bet_10_2.mp3"
+      ]
+    },
+    "faces": {
+      "bravo": [
+        "cicero/face_bravo_0.mp3",
+        "cicero/face_bravo_1.mp3",
+        "cicero/face_bravo_2.mp3"
+      ],
+      "rindo": [
+        "cicero/face_rindo_0.mp3",
+        "cicero/face_rindo_1.mp3",
+        "cicero/face_rindo_2.mp3"
+      ],
+      "preocupado": [
+        "cicero/face_preocupado_0.mp3",
+        "cicero/face_preocupado_1.mp3",
+        "cicero/face_preocupado_2.mp3"
+      ],
+      "surpreso": [
+        "cicero/face_surpreso_0.mp3",
+        "cicero/face_surpreso_1.mp3",
+        "cicero/face_surpreso_2.mp3"
+      ]
+    }
+  },
+  "jino": {
+    "lines": {
+      "Toma!": "jino/line_3xmlsn.mp3",
+      "Chora não!": "jino/line_eczesz.mp3",
+      "Essa foi pra você": "jino/line_nn5sv8.mp3",
+      "Senta e observa!": "jino/line_1rx69fc.mp3",
+      "Ah, qual é!": "jino/line_3f5l9z.mp3",
+      "Isso não conta!": "jino/line_onz6op.mp3",
+      "Tá de sacanagem!": "jino/line_bjpg9w.mp3",
+      "Foi sorte, só sorte!": "jino/line_1mcx2fk.mp3",
+      "Fácil demais": "jino/line_10rd82f.mp3",
+      "Sou brabo": "jino/line_1ae0uua.mp3",
+      "Nem suei.": "jino/line_1h5m27d.mp3",
+      "Aprende com o mestre!": "jino/line_18h2axv.mp3",
+      "Foi sorte de vocês": "jino/line_1w6nm3i.mp3",
+      "Tava de boa, só testando": "jino/line_4bn8tc.mp3",
+      "Deixei vocês ganharem.": "jino/line_mabxlf.mp3",
+      "Próxima eu amasso.": "jino/line_b9h4yd.mp3",
+      "Embuchou, rapaziada!": "jino/line_1uyzo1j.mp3",
+      "Embuchou! Que isso!": "jino/line_ig3jm0.mp3",
+      "Embuchou, bagunçou tudo!": "jino/line_bb82wu.wav",
+      "Embuchou! Nem eu esperava!": "jino/line_vmikj4.mp3",
+      "Ninguém tem coragem de me cobrir?": "jino/line_v29krf.mp3",
+      "Vão deixar essa comigo? Qual é!": "jino/line_17yario.mp3",
+      "Cobre aí, ô! Essa eu não quero!": "jino/line_gpwh02.mp3",
+      "Ô, cobre aí! Tá com medinho?": "jino/line_1gosfo6.mp3",
+      "Me cobriram? Então levo todas!": "jino/line_1m0z4wg.mp3",
+      "Tudo ou nada? É comigo mesmo!": "jino/line_1dbh3pd.mp3",
+      "Tranquilo, levo o resto. Sou brabo.": "jino/line_1ilor8b.mp3",
+      "Agora é tudo ou nada. Adoro!": "jino/line_1jk05m8.mp3",
+      "Manilha em mim? Tá com medo, é?": "jino/line_10fg82o.mp3",
+      "Precisou de manilha pra me bater!": "jino/line_104egdy.mp3",
+      "Gastou a manilha comigo? Fraco!": "jino/line_snneik.mp3",
+      "Manilha? Só assim pra me parar!": "jino/line_c7b39p.mp3",
+      "E aí, vai encarar?": "jino/line_mor3bz.mp3",
+      "Relaxa, eu pego leve com você... só que não!": "jino/line_156yxkc.mp3",
+      "Pode chamar, que eu tô on!": "jino/line_gjqar4.mp3",
+      "Vem, que eu tô com a mão quente!": "jino/line_fofmgo.mp3"
+    },
+    "bets": {
+      "0": [
+        "jino/bet_0_0.mp3",
+        "jino/bet_0_1.mp3",
+        "jino/bet_0_2.mp3"
+      ],
+      "1": [
+        "jino/bet_1_0.mp3",
+        "jino/bet_1_1.mp3",
+        "jino/bet_1_2.mp3"
+      ],
+      "2": [
+        "jino/bet_2_0.mp3",
+        "jino/bet_2_1.mp3",
+        "jino/bet_2_2.mp3"
+      ],
+      "3": [
+        "jino/bet_3_0.mp3",
+        "jino/bet_3_1.mp3",
+        "jino/bet_3_2.mp3"
+      ],
+      "4": [
+        "jino/bet_4_0.mp3",
+        "jino/bet_4_1.mp3",
+        "jino/bet_4_2.mp3"
+      ],
+      "5": [
+        "jino/bet_5_0.mp3",
+        "jino/bet_5_1.mp3",
+        "jino/bet_5_2.mp3"
+      ],
+      "6": [
+        "jino/bet_6_0.mp3",
+        "jino/bet_6_1.mp3",
+        "jino/bet_6_2.mp3"
+      ],
+      "7": [
+        "jino/bet_7_0.mp3",
+        "jino/bet_7_1.mp3",
+        "jino/bet_7_2.mp3"
+      ],
+      "8": [
+        "jino/bet_8_0.mp3",
+        "jino/bet_8_1.mp3",
+        "jino/bet_8_2.mp3"
+      ],
+      "9": [
+        "jino/bet_9_0.mp3",
+        "jino/bet_9_1.mp3",
+        "jino/bet_9_2.mp3"
+      ],
+      "10": [
+        "jino/bet_10_0.mp3",
+        "jino/bet_10_1.mp3",
+        "jino/bet_10_2.mp3"
+      ]
+    },
+    "faces": {
+      "bravo": [
+        "jino/face_bravo_0.mp3",
+        "jino/face_bravo_1.mp3",
+        "jino/face_bravo_2.mp3"
+      ],
+      "rindo": [
+        "jino/face_rindo_0.mp3",
+        "jino/face_rindo_1.mp3",
+        "jino/face_rindo_2.mp3"
+      ],
+      "preocupado": [
+        "jino/face_preocupado_0.mp3",
+        "jino/face_preocupado_1.mp3",
+        "jino/face_preocupado_2.mp3"
+      ],
+      "surpreso": [
+        "jino/face_surpreso_0.mp3",
+        "jino/face_surpreso_1.wav",
+        "jino/face_surpreso_2.mp3"
+      ]
+    }
+  },
+  "jamal": {
+    "lines": {
+      "HAHAHA ferrou!": "jamal/line_pstewk.mp3",
+      "Olha a cara dele!": "jamal/line_htlfks.mp3",
+      "Quem mandou?": "jamal/line_e7fv5s.mp3",
+      "Chora mais, chora!": "jamal/line_goohyu.mp3",
+      "Ah não, mano!": "jamal/line_az9kkm.mp3",
+      "Sacanagem!": "jamal/line_flfrs6.mp3",
+      "Ah, mas não é possível!": "jamal/line_k4zfzy.mp3",
+      "Tá de brincadeira comigo!": "jamal/line_zjap1y.mp3",
+      "É o pai!": "jamal/line_18f7988.mp3",
+      "Tá tranquilo": "jamal/line_mnkfrt.mp3",
+      "Aqui é nível!": "jamal/line_5fqby9.mp3",
+      "Moleza, mano!": "jamal/line_1wl4gp1.mp3",
+      "Valeu a zoeira": "jamal/line_1y22a31.mp3",
+      "Perdi mas ri": "jamal/line_7jxmid.wav",
+      "Faz parte, mano!": "jamal/line_sc1dy2.mp3",
+      "Zoei tanto que esqueci de jogar.": "jamal/line_159xvmu.mp3",
+      "EMBUCHOU! HAHA": "jamal/line_rkpoa8.wav",
+      "Embuchou, mano! Que zoeira!": "jamal/line_nwhciz.mp3",
+      "Embuchou! Ninguém leva!": "jamal/line_1d5hkta.mp3",
+      "Embuchou! Olha a cara de todo mundo!": "jamal/line_nyfut9.mp3",
+      "Ô, ninguém vai cobrir, mano?": "jamal/line_1ihwd2r.mp3",
+      "Vai sobrar pra mim? Sacanagem, mano!": "jamal/line_f4plgr.mp3",
+      "Alguém cobre aí, pelo amor!": "jamal/line_1b9qz61.mp3",
+      "Vai sobrar pra mim? Aí é zoeira!": "jamal/line_qv9wd1.mp3",
+      "Me cobriram! Agora é tudo ou nada, mano!": "jamal/line_18hjhye.wav",
+      "Tenho que levar todas? Bora!": "jamal/line_10xev8n.mp3",
+      "Sem margem, mano! Segura aí!": "jamal/line_njrwcx.mp3",
+      "Tudo ou nada, mano! Hoje é dia!": "jamal/line_iljswf.mp3",
+      "Manilha em mim? Aí não, mano!": "jamal/line_15g9na1.mp3",
+      "Gastou a manilha comigo? Que fase!": "jamal/line_1shph0b.mp3",
+      "Manilha?! Até eu ri dessa!": "jamal/line_1yifznn.mp3",
+      "Manilha?! Tá de zoeira comigo!": "jamal/line_1cekpxi.mp3",
+      "Chega mais, que hoje tem zoeira!": "jamal/line_3mk9jp.mp3",
+      "Bora jogar, que eu tô inspirado!": "jamal/line_1dqefz3.mp3",
+      "Você de novo? Tá gostando de perder, é?": "jamal/line_wjg504.mp3",
+      "Senta aí que a resenha vai começar!": "jamal/line_431dcv.mp3"
+    },
+    "bets": {
+      "0": [
+        "jamal/bet_0_0.mp3",
+        "jamal/bet_0_1.mp3",
+        "jamal/bet_0_2.mp3"
+      ],
+      "1": [
+        "jamal/bet_1_0.mp3",
+        "jamal/bet_1_1.mp3",
+        "jamal/bet_1_2.mp3"
+      ],
+      "2": [
+        "jamal/bet_2_0.mp3",
+        "jamal/bet_2_1.mp3",
+        "jamal/bet_2_2.mp3"
+      ],
+      "3": [
+        "jamal/bet_3_0.mp3",
+        "jamal/bet_3_1.mp3",
+        "jamal/bet_3_2.mp3"
+      ],
+      "4": [
+        "jamal/bet_4_0.mp3",
+        "jamal/bet_4_1.mp3",
+        "jamal/bet_4_2.mp3"
+      ],
+      "5": [
+        "jamal/bet_5_0.mp3",
+        "jamal/bet_5_1.mp3",
+        "jamal/bet_5_2.mp3"
+      ],
+      "6": [
+        "jamal/bet_6_0.mp3",
+        "jamal/bet_6_1.mp3",
+        "jamal/bet_6_2.mp3"
+      ],
+      "7": [
+        "jamal/bet_7_0.mp3",
+        "jamal/bet_7_1.wav",
+        "jamal/bet_7_2.mp3"
+      ],
+      "8": [
+        "jamal/bet_8_0.mp3",
+        "jamal/bet_8_1.mp3",
+        "jamal/bet_8_2.mp3"
+      ],
+      "9": [
+        "jamal/bet_9_0.mp3",
+        "jamal/bet_9_1.mp3",
+        "jamal/bet_9_2.mp3"
+      ],
+      "10": [
+        "jamal/bet_10_0.mp3",
+        "jamal/bet_10_1.mp3",
+        "jamal/bet_10_2.mp3"
+      ]
+    },
+    "faces": {
+      "bravo": [
+        "jamal/face_bravo_0.mp3",
+        "jamal/face_bravo_1.mp3",
+        "jamal/face_bravo_2.mp3"
+      ],
+      "rindo": [
+        "jamal/face_rindo_0.mp3",
+        "jamal/face_rindo_1.mp3",
+        "jamal/face_rindo_2.mp3"
+      ],
+      "preocupado": [
+        "jamal/face_preocupado_0.mp3",
+        "jamal/face_preocupado_1.mp3",
+        "jamal/face_preocupado_2.mp3"
+      ],
+      "surpreso": [
+        "jamal/face_surpreso_0.mp3",
+        "jamal/face_surpreso_1.mp3",
+        "jamal/face_surpreso_2.mp3"
+      ]
+    }
+  },
+  "nono": {
+    "lines": {
+      "Desculpa!": "nono/line_17k59xz.mp3",
+      "Não foi por mal...": "nono/line_1fowcag.mp3",
+      "Ai, desculpa, desculpa!": "nono/line_1i7yzii.mp3",
+      "Eu não queria, juro!": "nono/line_4b84c3.mp3",
+      "Por que eu?!": "nono/line_fzw3sr.mp3",
+      "Ai meu Deus": "nono/line_2r7o2v.mp3",
+      "Sempre sobra pra mim!": "nono/line_4o0573.mp3",
+      "Ai, não, não, não!": "nono/line_rfb9is.mp3",
+      "Ufa!": "nono/line_yk4aiq.mp3",
+      "Nem acredito": "nono/line_10gnzo0.mp3",
+      "Deu certo? Deu certo!": "nono/line_1rdckpn.wav",
+      "Graças a Deus!": "nono/line_15cklvx.mp3",
+      "Eu sabia...": "nono/line_z2ndgp.mp3",
+      "Sempre comigo": "nono/line_1b20ihb.mp3",
+      "Eu nem devia ter jogado...": "nono/line_12ruij5.mp3",
+      "Ai, que vergonha.": "nono/line_1sluq7i.mp3",
+      "Embuchou... ufa?": "nono/line_mv2tdu.mp3",
+      "Embuchou! Isso é bom? É bom?": "nono/line_89if2g.wav",
+      "Embuchou... ai, que susto.": "nono/line_ttj4ok.mp3",
+      "Embuchou? Ai, que alívio... eu acho.": "nono/line_k5lvte.mp3",
+      "Ninguém cobre? Sempre sobra pra mim!": "nono/line_12g42xc.mp3",
+      "Cobre, por favor! Alguém cobre!": "nono/line_2li587.mp3",
+      "Ai meu Deus, vou levar essa...": "nono/line_1d7dcwt.mp3",
+      "Ninguém? Ninguém mesmo? Ai, não...": "nono/line_1rtl92q.mp3",
+      "Agora tenho que ganhar todas? Ai, não!": "nono/line_1w533wa.mp3",
+      "Tudo ou nada? Eu não aguento pressão!": "nono/line_goz3l1.mp3",
+      "Me cobriram... ai, meu coração.": "nono/line_l87s6x.mp3",
+      "Tudo ou nada... minhas mãos tão suando.": "nono/line_19l0fn7.mp3",
+      "Manilha?! Ai, que susto!": "nono/line_1robl9b.mp3",
+      "Por que manilha logo em mim?!": "nono/line_fmiza9.mp3",
+      "Ai meu Deus, uma manilha!": "nono/line_1mbhikx.mp3",
+      "Manilha em mim? Ai, que medo!": "nono/line_bwekm2.mp3",
+      "Ai... eu vou ter que jogar mesmo?": "nono/line_o3k7qu.mp3",
+      "Oi... tudo bem? Pega leve comigo, tá?": "nono/line_f7nhml.mp3",
+      "E-eu tô tranquilo. Juro.": "nono/line_jztilw.mp3",
+      "Posso ficar só olhando? Não? Tá bom...": "nono/line_1nqhyc.mp3"
+    },
+    "bets": {
+      "0": [
+        "nono/bet_0_0.mp3",
+        "nono/bet_0_1.mp3",
+        "nono/bet_0_2.mp3"
+      ],
+      "1": [
+        "nono/bet_1_0.mp3",
+        "nono/bet_1_1.mp3",
+        "nono/bet_1_2.mp3"
+      ],
+      "2": [
+        "nono/bet_2_0.mp3",
+        "nono/bet_2_1.mp3",
+        "nono/bet_2_2.mp3"
+      ],
+      "3": [
+        "nono/bet_3_0.mp3",
+        "nono/bet_3_1.mp3",
+        "nono/bet_3_2.mp3"
+      ],
+      "4": [
+        "nono/bet_4_0.mp3",
+        "nono/bet_4_1.mp3",
+        "nono/bet_4_2.mp3"
+      ],
+      "5": [
+        "nono/bet_5_0.mp3",
+        "nono/bet_5_1.mp3",
+        "nono/bet_5_2.mp3"
+      ],
+      "6": [
+        "nono/bet_6_0.mp3",
+        "nono/bet_6_1.mp3",
+        "nono/bet_6_2.mp3"
+      ],
+      "7": [
+        "nono/bet_7_0.mp3",
+        "nono/bet_7_1.mp3",
+        "nono/bet_7_2.mp3"
+      ],
+      "8": [
+        "nono/bet_8_0.mp3",
+        "nono/bet_8_1.mp3",
+        "nono/bet_8_2.mp3"
+      ],
+      "9": [
+        "nono/bet_9_0.mp3",
+        "nono/bet_9_1.mp3",
+        "nono/bet_9_2.mp3"
+      ],
+      "10": [
+        "nono/bet_10_0.mp3",
+        "nono/bet_10_1.mp3",
+        "nono/bet_10_2.mp3"
+      ]
+    },
+    "faces": {
+      "bravo": [
+        "nono/face_bravo_0.mp3",
+        "nono/face_bravo_1.mp3",
+        "nono/face_bravo_2.wav"
+      ],
+      "rindo": [
+        "nono/face_rindo_0.mp3",
+        "nono/face_rindo_1.mp3",
+        "nono/face_rindo_2.mp3"
+      ],
+      "preocupado": [
+        "nono/face_preocupado_0.mp3",
+        "nono/face_preocupado_1.mp3",
+        "nono/face_preocupado_2.mp3"
+      ],
+      "surpreso": [
+        "nono/face_surpreso_0.mp3",
+        "nono/face_surpreso_1.mp3",
+        "nono/face_surpreso_2.mp3"
+      ]
+    }
+  },
+  "charlin": {
+    "lines": {
+      "Previsível.": "charlin/line_1upmjj4.mp3",
+      "Calculado.": "charlin/line_1uudjln.mp3",
+      "Exatamente como previ.": "charlin/line_1g61p77.mp3",
+      "Erro de cálculo. O seu.": "charlin/line_hppup.mp3",
+      "Estatisticamente improvável...": "charlin/line_28x023.wav",
+      "Hmm.": "charlin/line_yjug8l.mp3",
+      "Variância. Acontece.": "charlin/line_j6j51u.mp3",
+      "Isso não estava nos meus cálculos.": "charlin/line_vin93p.mp3",
+      "Como previsto.": "charlin/line_1k1ebj1.mp3",
+      "Matemática.": "charlin/line_tjnqw9.mp3",
+      "Probabilidade confirmada.": "charlin/line_1nlee89.mp3",
+      "Nenhuma surpresa.": "charlin/line_3a7vbo.mp3",
+      "Margem de erro.": "charlin/line_5cw419.mp3",
+      "Recalculando...": "charlin/line_vvltvg.wav",
+      "Amostra pequena.": "charlin/line_bn8r2x.mp3",
+      "Hmm. Revisarei minha estratégia.": "charlin/line_1mh2yav.mp3",
+      "Empate técnico.": "charlin/line_1gnrwqg.mp3",
+      "Embuchou. Curioso.": "charlin/line_4tdp7h.mp3",
+      "Resultado nulo.": "charlin/line_10yrqqs.mp3",
+      "Embuchou. Cenário improvável.": "charlin/line_1060wdb.mp3",
+      "Ninguém cobre. Isso não estava previsto.": "charlin/line_jhsn5.mp3",
+      "Probabilidade de sobrar pra mim: alta.": "charlin/line_1m6ld6x.mp3",
+      "Hmm. Vou levar uma que não queria.": "charlin/line_3kpkzw.mp3",
+      "Nenhuma cobertura. Cálculo desfavorável.": "charlin/line_1nr3jmh.mp3",
+      "Coberto. Agora preciso de todas.": "charlin/line_1mi38uq.mp3",
+      "Margem zero. Tudo ou nada.": "charlin/line_5ixbhq.mp3",
+      "Recalculando: tenho que levar todas.": "charlin/line_j9praw.mp3",
+      "Coberto. Nova meta: todas as vazas.": "charlin/line_1w3r7js.mp3",
+      "Manilha. Não estava nos cálculos.": "charlin/line_50gfk5.mp3",
+      "Manilha por cima. Estatisticamente cruel.": "charlin/line_y3q0zc.mp3",
+      "Hmm. Uma manilha. Anotado.": "charlin/line_1it5pqs.mp3",
+      "Uma manilha. Previsível, porém cruel.": "charlin/line_71x36h.mp3",
+      "Já calculei suas chances. Não são boas.": "charlin/line_eaytl.mp3",
+      "Paciência é a arte de vencer.": "charlin/line_o1f1mf.mp3",
+      "Interessante. Um novo adversário.": "charlin/line_1754jbe.mp3",
+      "Cada carta conta. Literalmente.": "charlin/line_rdqgvk.mp3"
+    },
+    "bets": {
+      "0": [
+        "charlin/bet_0_0.mp3",
+        "charlin/bet_0_1.mp3",
+        "charlin/bet_0_2.mp3"
+      ],
+      "1": [
+        "charlin/bet_1_0.mp3",
+        "charlin/bet_1_1.mp3",
+        "charlin/bet_1_2.mp3"
+      ],
+      "2": [
+        "charlin/bet_2_0.mp3",
+        "charlin/bet_2_1.mp3",
+        "charlin/bet_2_2.mp3"
+      ],
+      "3": [
+        "charlin/bet_3_0.mp3",
+        "charlin/bet_3_1.wav",
+        "charlin/bet_3_2.mp3"
+      ],
+      "4": [
+        "charlin/bet_4_0.mp3",
+        "charlin/bet_4_1.mp3",
+        "charlin/bet_4_2.mp3"
+      ],
+      "5": [
+        "charlin/bet_5_0.mp3",
+        "charlin/bet_5_1.wav",
+        "charlin/bet_5_2.mp3"
+      ],
+      "6": [
+        "charlin/bet_6_0.mp3",
+        "charlin/bet_6_1.mp3",
+        "charlin/bet_6_2.mp3"
+      ],
+      "7": [
+        "charlin/bet_7_0.mp3",
+        "charlin/bet_7_1.mp3",
+        "charlin/bet_7_2.mp3"
+      ],
+      "8": [
+        "charlin/bet_8_0.mp3",
+        "charlin/bet_8_1.mp3",
+        "charlin/bet_8_2.mp3"
+      ],
+      "9": [
+        "charlin/bet_9_0.mp3",
+        "charlin/bet_9_1.mp3",
+        "charlin/bet_9_2.mp3"
+      ],
+      "10": [
+        "charlin/bet_10_0.mp3",
+        "charlin/bet_10_1.mp3",
+        "charlin/bet_10_2.mp3"
+      ]
+    },
+    "faces": {
+      "bravo": [
+        "charlin/face_bravo_0.mp3",
+        "charlin/face_bravo_1.mp3",
+        "charlin/face_bravo_2.mp3"
+      ],
+      "rindo": [
+        "charlin/face_rindo_0.mp3",
+        "charlin/face_rindo_1.wav",
+        "charlin/face_rindo_2.mp3"
+      ],
+      "preocupado": [
+        "charlin/face_preocupado_0.mp3",
+        "charlin/face_preocupado_1.mp3",
+        "charlin/face_preocupado_2.mp3"
+      ],
+      "surpreso": [
+        "charlin/face_surpreso_0.mp3",
+        "charlin/face_surpreso_1.mp3",
+        "charlin/face_surpreso_2.mp3"
+      ]
+    }
+  },
+  "zefa": {
+    "lines": {
+      "Vingança servida, querido!": "zefa/line_ag0dj8.mp3",
+      "A vovó não esquece": "zefa/line_1h855j3.mp3",
+      "Toma, que é pra aprender!": "zefa/line_1gtj34b.mp3",
+      "Eu avisei, querido.": "zefa/line_14efbub.mp3",
+      "Anotei seu nome...": "zefa/line_19lhz57.mp3",
+      "Isso vai ter volta, viu?": "zefa/line_1jroutv.mp3",
+      "Ah, é assim? Tá bom...": "zefa/line_naqwe4.mp3",
+      "Vou lembrar disso no Natal.": "zefa/line_ptj8h.mp3",
+      "Na medida": "zefa/line_16oyvfc.mp3",
+      "Certinho, como um bolo": "zefa/line_1avu0ix.mp3",
+      "A vovó ainda sabe das coisas.": "zefa/line_j5fdv8.mp3",
+      "Receita de família!": "zefa/line_ph1fn.mp3",
+      "Alguém vai pagar": "zefa/line_1jytkmn.mp3",
+      "Tô de olho em vocês": "zefa/line_1xcrtof.mp3",
+      "Isso foi armação!": "zefa/line_aumvks.mp3",
+      "Ah, mas eu vou descobrir quem foi.": "zefa/line_1g578gg.mp3",
+      "Embuchou, minha nossa!": "zefa/line_gp6ior.mp3",
+      "Embuchou! Credo!": "zefa/line_nc97u4.mp3",
+      "Embuchou, que coisa feia!": "zefa/line_avdjw9.mp3",
+      "Embuchou! Santo Deus!": "zefa/line_e36cj9.mp3",
+      "Ninguém vai cobrir a vovó? Anotei.": "zefa/line_5wk88p.mp3",
+      "Vão deixar sobrar pra mim? Tá bom...": "zefa/line_16hxbh1.mp3",
+      "Cadê um neto pra cobrir a vovó?": "zefa/line_1sh4ywx.mp3",
+      "Ninguém cobre? Vou lembrar disso, viu?": "zefa/line_ckoau.mp3",
+      "Me cobriram? Agora a vovó leva todas.": "zefa/line_1i5ke9b.mp3",
+      "Tudo ou nada, querido. E eu não esqueço.": "zefa/line_w4wz3m.mp3",
+      "Anotei quem me cobriu. Agora é tudo!": "zefa/line_1rizm0h.mp3",
+      "Me cobriram? A vovó não perdoa!": "zefa/line_ge47m8.mp3",
+      "Manilha na vovó? Isso vai ter volta!": "zefa/line_aa034b.mp3",
+      "Gastou manilha comigo? Anotei, querido.": "zefa/line_oo60aq.mp3",
+      "Manilha em mim? Vai pro caderninho!": "zefa/line_1br73fk.mp3",
+      "Manilha na vovó? Nem no Natal, querido!": "zefa/line_ee15ou.mp3",
+      "Senta aí, querido, que a vovó vai te ensinar.": "zefa/line_2xobow.mp3",
+      "Trouxe bolinho? Não? Anotado.": "zefa/line_1uiypyh.mp3",
+      "Cuidado comigo, viu? Eu não esqueço nada.": "zefa/line_oucrcg.mp3",
+      "Chega mais, querido. A vovó não morde. Muito.": "zefa/line_1icocq2.mp3"
+    },
+    "bets": {
+      "0": [
+        "zefa/bet_0_0.mp3",
+        "zefa/bet_0_1.mp3",
+        "zefa/bet_0_2.wav"
+      ],
+      "1": [
+        "zefa/bet_1_0.mp3",
+        "zefa/bet_1_1.mp3",
+        "zefa/bet_1_2.mp3"
+      ],
+      "2": [
+        "zefa/bet_2_0.mp3",
+        "zefa/bet_2_1.mp3",
+        "zefa/bet_2_2.mp3"
+      ],
+      "3": [
+        "zefa/bet_3_0.mp3",
+        "zefa/bet_3_1.mp3",
+        "zefa/bet_3_2.mp3"
+      ],
+      "4": [
+        "zefa/bet_4_0.mp3",
+        "zefa/bet_4_1.mp3",
+        "zefa/bet_4_2.wav"
+      ],
+      "5": [
+        "zefa/bet_5_0.mp3",
+        "zefa/bet_5_1.mp3",
+        "zefa/bet_5_2.mp3"
+      ],
+      "6": [
+        "zefa/bet_6_0.mp3",
+        "zefa/bet_6_1.mp3",
+        "zefa/bet_6_2.mp3"
+      ],
+      "7": [
+        "zefa/bet_7_0.mp3",
+        "zefa/bet_7_1.mp3",
+        "zefa/bet_7_2.mp3"
+      ],
+      "8": [
+        "zefa/bet_8_0.wav",
+        "zefa/bet_8_1.mp3",
+        "zefa/bet_8_2.mp3"
+      ],
+      "9": [
+        "zefa/bet_9_0.mp3",
+        "zefa/bet_9_1.mp3",
+        "zefa/bet_9_2.mp3"
+      ],
+      "10": [
+        "zefa/bet_10_0.mp3",
+        "zefa/bet_10_1.mp3",
+        "zefa/bet_10_2.mp3"
+      ]
+    },
+    "faces": {
+      "bravo": [
+        "zefa/face_bravo_0.mp3",
+        "zefa/face_bravo_1.mp3",
+        "zefa/face_bravo_2.mp3"
+      ],
+      "rindo": [
+        "zefa/face_rindo_0.mp3",
+        "zefa/face_rindo_1.mp3",
+        "zefa/face_rindo_2.mp3"
+      ],
+      "preocupado": [
+        "zefa/face_preocupado_0.mp3",
+        "zefa/face_preocupado_1.mp3",
+        "zefa/face_preocupado_2.mp3"
+      ],
+      "surpreso": [
+        "zefa/face_surpreso_0.mp3",
+        "zefa/face_surpreso_1.mp3",
+        "zefa/face_surpreso_2.mp3"
+      ]
+    }
+  },
+  "juninho": {
+    "lines": {
+      "Ops, foi mal kkk": "juninho/line_et1sgs.mp3",
+      "Nem sei o que fiz": "juninho/line_gvw6yx.mp3",
+      "Isso foi épico!": "juninho/line_8od1km.mp3",
+      "Hahaha, que confusão!": "juninho/line_ronrg8.mp3",
+      "Ué?": "juninho/line_376w1u.wav",
+      "Isso era pra acontecer?": "juninho/line_1p4k1ch.mp3",
+      "Ei, isso não vale!": "juninho/line_1laeh8m.wav",
+      "Pera, pera, pera!": "juninho/line_1xnvgs6.mp3",
+      "Plano perfeito (sem plano)": "juninho/line_16fhr4d.mp3",
+      "Nem acredito": "juninho/line_10gnzo0.mp3",
+      "Uhuu! Acertei!": "juninho/line_5m76dn.mp3",
+      "Eu sou um gênio!": "juninho/line_1oqt60g.mp3",
+      "Faz parte": "juninho/line_n2716q.mp3",
+      "Próxima eu acerto (ou não)": "juninho/line_10nprna.mp3",
+      "Ih, errei. Tanto faz!": "juninho/line_1ux68wf.mp3",
+      "Quem liga? Bora de novo!": "juninho/line_lto0tl.mp3",
+      "Embuchou? Legal!": "juninho/line_6mvdoi.mp3",
+      "Embuchou! Que massa!": "juninho/line_16qudi7.mp3",
+      "Embuchou! Faz de novo!": "juninho/line_l4kg5n.mp3",
+      "Embuchou! Tipo videogame!": "juninho/line_qg58fg.mp3",
+      "Ué, ninguém cobre? Vai sobrar pra mim!": "juninho/line_2moolc.mp3",
+      "Ei, cobre aí! Não quero essa!": "juninho/line_1oig5ci.mp3",
+      "Pera, eu vou levar? Não, não, não!": "juninho/line_uvx5r.mp3",
+      "Socorro! Alguém cobre essa!": "juninho/line_1hfl89w.mp3",
+      "Agora tenho que ganhar todas? Tá!": "juninho/line_r0hrnd.wav",
+      "Tudo ou nada! Que adrenalina!": "juninho/line_1txsvsl.mp3",
+      "Me cobriram? Modo turbo ligado!": "juninho/line_1dsjwtt.mp3",
+      "Tudo ou nada? Tô dentro!": "juninho/line_y9vnx.mp3",
+      "Manilha?! Isso vale? Vale?": "juninho/line_12xo2ej.mp3",
+      "Uau, uma manilha! Em mim! Kkk": "juninho/line_f7figh.mp3",
+      "Ei! Manilha em mim não vale!": "juninho/line_13nbics.mp3",
+      "Manilha?! Que golpe de mestre!": "juninho/line_1qqdbln.mp3",
+      "Bora, bora, bora! Vamo jogar logo!": "juninho/line_1a48n1e.mp3",
+      "Eu nem sei as regras, mas eu vou ganhar!": "juninho/line_1a025n.mp3",
+      "Uhuu! Me escolhe, me escolhe!": "juninho/line_1n4wv6s.mp3",
+      "Mãe, deixa eu jogar só mais uma!": "juninho/line_gomt82.mp3"
+    },
+    "bets": {
+      "0": [
+        "juninho/bet_0_0.mp3",
+        "juninho/bet_0_1.mp3",
+        "juninho/bet_0_2.mp3"
+      ],
+      "1": [
+        "juninho/bet_1_0.mp3",
+        "juninho/bet_1_1.mp3",
+        "juninho/bet_1_2.mp3"
+      ],
+      "2": [
+        "juninho/bet_2_0.mp3",
+        "juninho/bet_2_1.mp3",
+        "juninho/bet_2_2.mp3"
+      ],
+      "3": [
+        "juninho/bet_3_0.mp3",
+        "juninho/bet_3_1.mp3",
+        "juninho/bet_3_2.mp3"
+      ],
+      "4": [
+        "juninho/bet_4_0.mp3",
+        "juninho/bet_4_1.mp3",
+        "juninho/bet_4_2.mp3"
+      ],
+      "5": [
+        "juninho/bet_5_0.mp3",
+        "juninho/bet_5_1.mp3",
+        "juninho/bet_5_2.mp3"
+      ],
+      "6": [
+        "juninho/bet_6_0.mp3",
+        "juninho/bet_6_1.mp3",
+        "juninho/bet_6_2.mp3"
+      ],
+      "7": [
+        "juninho/bet_7_0.mp3",
+        "juninho/bet_7_1.mp3",
+        "juninho/bet_7_2.mp3"
+      ],
+      "8": [
+        "juninho/bet_8_0.mp3",
+        "juninho/bet_8_1.mp3",
+        "juninho/bet_8_2.mp3"
+      ],
+      "9": [
+        "juninho/bet_9_0.mp3",
+        "juninho/bet_9_1.mp3",
+        "juninho/bet_9_2.mp3"
+      ],
+      "10": [
+        "juninho/bet_10_0.mp3",
+        "juninho/bet_10_1.mp3",
+        "juninho/bet_10_2.mp3"
+      ]
+    },
+    "faces": {
+      "bravo": [
+        "juninho/face_bravo_0.mp3",
+        "juninho/face_bravo_1.mp3",
+        "juninho/face_bravo_2.mp3"
+      ],
+      "rindo": [
+        "juninho/face_rindo_0.mp3",
+        "juninho/face_rindo_1.mp3",
+        "juninho/face_rindo_2.mp3"
+      ],
+      "preocupado": [
+        "juninho/face_preocupado_0.mp3",
+        "juninho/face_preocupado_1.mp3",
+        "juninho/face_preocupado_2.mp3"
+      ],
+      "surpreso": [
+        "juninho/face_surpreso_0.mp3",
+        "juninho/face_surpreso_1.mp3",
+        "juninho/face_surpreso_2.mp3"
+      ]
+    }
+  },
+  "rb16": {
+    "lines": {
+      "Resultado esperado.": "rb16/line_lpucqh.mp3",
+      "Erro humano detectado.": "rb16/line_1im13a8.mp3",
+      "Previsão confirmada. Você perdeu.": "rb16/line_vo8cbb.mp3",
+      "Falha na sua lógica.": "rb16/line_teod22.mp3",
+      "Falha no sistema!": "rb16/line_1kgc5px.mp3",
+      "Isso não estava no algoritmo.": "rb16/line_1qzh734.mp3",
+      "Exceção não tratada!": "rb16/line_1nyyix1.mp3",
+      "Recalculando... recalculando...": "rb16/line_1bf5l1v.mp3",
+      "Cálculo concluído com sucesso.": "rb16/line_ctbeam.mp3",
+      "Precisão: cem por cento.": "rb16/line_1cdydj8.mp3",
+      "Tarefa executada.": "rb16/line_y767ju.mp3",
+      "Eficiência máxima.": "rb16/line_1oanmvp.mp3",
+      "Recalibrando...": "rb16/line_ux6x6d.mp3",
+      "Anomalia registrada.": "rb16/line_1au3t3v.mp3",
+      "Atualização necessária.": "rb16/line_10boc05.mp3",
+      "Erro fora da margem.": "rb16/line_1rzoo29.mp3",
+      "Empate detectado.": "rb16/line_1x2uym4.mp3",
+      "Embuchou. Processando.": "rb16/line_jdbqxm.mp3",
+      "Resultado indefinido.": "rb16/line_1xc5htr.mp3",
+      "Embuchou. Nenhum vencedor calculado.": "rb16/line_1o7z6n6.mp3",
+      "Alerta: ninguém cobriu. Vaza indesejada.": "rb16/line_1lu81ah.mp3",
+      "Nenhuma cobertura detectada. Péssimo.": "rb16/line_1gxdp5j.mp3",
+      "Processando... vai sobrar para mim.": "rb16/line_forc7i.mp3",
+      "Erro: ninguém cobriu. Vaza forçada.": "rb16/line_1rlb3hw.mp3",
+      "Cobertura detectada. Modo tudo ou nada.": "rb16/line_6cdrze.mp3",
+      "Margem de erro: zero. Executando.": "rb16/line_1msapet.mp3",
+      "Recalculando. Preciso de todas as vazas.": "rb16/line_wzp0u8.mp3",
+      "Tudo ou nada. Precisão necessária: total.": "rb16/line_tgs4h5.wav",
+      "Manilha detectada. Injusto.": "rb16/line_1xr8q5i.mp3",
+      "Manilha sobre minha carta. Registrado.": "rb16/line_13sxi02.mp3",
+      "Força bruta detectada: manilha.": "rb16/line_1rczw6r.mp3",
+      "Manilha detectada. Recalculando estratégia.": "rb16/line_21lt84.mp3",
+      "Saudações, humano. Eu voltei. Versão dois ponto zero.": "rb16/line_zords3.mp3",
+      "Fui criado em 2016. Nunca perdi a memória. Nem a paciência.": "rb16/line_yndsl7.mp3",
+      "Iniciando partida. Probabilidade de você perder: alta.": "rb16/line_181zhan.mp3",
+      "Bateria em cem por cento. Pronto para jogar.": "rb16/line_1m92u9v.mp3",
+      "Lata velha detectada. Rindo em binário.": "rb16/line_ocyi1w.mp3",
+      "Parafuso solto, cérebro também.": "rb16/line_x063ht.mp3",
+      "Sucata. Era de se esperar.": "rb16/line_1bqdv1p.mp3",
+      "Versão obsoleta. Ha. Ha.": "rb16/line_1vpvk98.mp3"
+    },
+    "bets": {
+      "0": [
+        "rb16/bet_0_0.mp3",
+        "rb16/bet_0_1.mp3",
+        "rb16/bet_0_2.mp3"
+      ],
+      "1": [
+        "rb16/bet_1_0.mp3",
+        "rb16/bet_1_1.mp3",
+        "rb16/bet_1_2.wav"
+      ],
+      "2": [
+        "rb16/bet_2_0.wav",
+        "rb16/bet_2_1.mp3",
+        "rb16/bet_2_2.mp3"
+      ],
+      "3": [
+        "rb16/bet_3_0.wav",
+        "rb16/bet_3_1.wav",
+        "rb16/bet_3_2.mp3"
+      ],
+      "4": [
+        "rb16/bet_4_0.mp3",
+        "rb16/bet_4_1.mp3",
+        "rb16/bet_4_2.mp3"
+      ],
+      "5": [
+        "rb16/bet_5_0.mp3",
+        "rb16/bet_5_1.mp3",
+        "rb16/bet_5_2.mp3"
+      ],
+      "6": [
+        "rb16/bet_6_0.mp3",
+        "rb16/bet_6_1.mp3",
+        "rb16/bet_6_2.mp3"
+      ],
+      "7": [
+        "rb16/bet_7_0.mp3",
+        "rb16/bet_7_1.wav",
+        "rb16/bet_7_2.mp3"
+      ],
+      "8": [
+        "rb16/bet_8_0.mp3",
+        "rb16/bet_8_1.mp3",
+        "rb16/bet_8_2.mp3"
+      ],
+      "9": [
+        "rb16/bet_9_0.mp3",
+        "rb16/bet_9_1.mp3",
+        "rb16/bet_9_2.mp3"
+      ],
+      "10": [
+        "rb16/bet_10_0.mp3",
+        "rb16/bet_10_1.wav",
+        "rb16/bet_10_2.mp3"
+      ]
+    },
+    "faces": {
+      "bravo": [
+        "rb16/face_bravo_0.mp3",
+        "rb16/face_bravo_1.mp3",
+        "rb16/face_bravo_2.mp3"
+      ],
+      "rindo": [
+        "rb16/face_rindo_0.wav",
+        "rb16/face_rindo_1.wav",
+        "rb16/face_rindo_2.mp3"
+      ],
+      "preocupado": [
+        "rb16/face_preocupado_0.mp3",
+        "rb16/face_preocupado_1.mp3",
+        "rb16/face_preocupado_2.mp3"
+      ],
+      "surpreso": [
+        "rb16/face_surpreso_0.mp3",
+        "rb16/face_surpreso_1.mp3",
+        "rb16/face_surpreso_2.mp3"
+      ]
+    }
+  },
+  "parafuso": {
+    "lines": {
+      "Bip bop, se ferrou!": "parafuso/line_b1gtq1.mp3",
+      "Toma, humano! Bip!": "parafuso/line_gnz9l3.mp3",
+      "Bip! Bem feito!": "parafuso/line_1q47ky5.mp3",
+      "Hahaha, bip bip bip!": "parafuso/line_d7uc66.mp3",
+      "Pane! Pane! Pane!": "parafuso/line_14vuob8.mp3",
+      "Meu parafuso! Cadê meu parafuso?": "parafuso/line_1005ngn.wav",
+      "Curto-circuito na lata!": "parafuso/line_1al6jrn.wav",
+      "Socorro, tô enferrujando!": "parafuso/line_kgam10.mp3",
+      "Bip! Funcionou! Não sei como!": "parafuso/line_1u6jtrc.mp3",
+      "Missão cumprida, bip bop!": "parafuso/line_40g7ap.mp3",
+      "Bip! Sou demais!": "parafuso/line_1st37nw.mp3",
+      "Deu certo! Bip, bip, uhul!": "parafuso/line_1n1ay7i.mp3",
+      "Erro quatrocentos e quatro: vaza não encontrada.": "parafuso/line_pzolof.mp3",
+      "Alguém desliga e liga de novo?": "parafuso/line_13x7nrd.mp3",
+      "Tela azul! Tela azul!": "parafuso/line_86dg4r.mp3",
+      "Preciso de um técnico, urgente!": "parafuso/line_1i1281h.mp3",
+      "Curto-circuito! Embuchou!": "parafuso/line_35m3wb.mp3",
+      "Embuchou! Bzzzt!": "parafuso/line_mv2g77.mp3",
+      "Embu-bu-buchou!": "parafuso/line_1so5zae.mp3",
+      "Embuchou! Meus circuitos embaralharam!": "parafuso/line_c0n5rf.mp3",
+      "Bip! Ninguém cobre? Pane! Pane!": "parafuso/line_1x1p3rg.wav",
+      "Alguém cobre a lata aqui! Bzzt!": "parafuso/line_xr2s6m.mp3",
+      "Vai sobrar pra mim? Bip bop, socorro!": "parafuso/line_1lbdmir.mp3",
+      "Bip! Não quero essa! Bip bip!": "parafuso/line_7rbzl.mp3",
+      "Agora tenho que ganhar todas! Bip!": "parafuso/line_jnguwx.mp3",
+      "Tudo ou nada! Turbinando a lata!": "parafuso/line_1awhbf8.mp3",
+      "Modo tudo ou nada: ativado! Bzzt!": "parafuso/line_6mpph2.mp3",
+      "Todas? Carregando coragem... bip!": "parafuso/line_9nn0wp.wav",
+      "Manilha na lata? Amassou tudo!": "parafuso/line_zm3pc5.wav",
+      "Bzzt! Manilha! Perdi um parafuso!": "parafuso/line_1gtihz7.mp3",
+      "Manilha?! Curto-circuito!": "parafuso/line_fi2nss.mp3",
+      "Manilha na lata! Vou virar sucata!": "parafuso/line_1gnrz75.mp3",
+      "Bip bop! Parafuso na área! Tá faltando um, mas tá tudo bem!": "parafuso/line_cfzv27.mp3",
+      "Fui feito com lata de goiabada. E daí?": "parafuso/line_3djiza.mp3",
+      "Me escolhe! Eu tenho três botões e nenhum funciona!": "parafuso/line_532v0s.mp3",
+      "Cuidado, que eu solto faísca!": "parafuso/line_79zqi4.mp3",
+      "Olha o metido a Wi-Fi se ferrando!": "parafuso/line_7ceb4x.mp3",
+      "Chupa, robô de loja de celular!": "parafuso/line_shaq9m.mp3",
+      "Ô metido a besta, se ferrou!": "parafuso/line_w0axs3.mp3",
+      "Chip de marca, cérebro de pirata!": "parafuso/line_17lihtf.mp3",
+      "Erro! Reiniciando... vai essa aqui!": "parafuso/line_3bmuju.mp3",
+      "Bip... bop... bzzzt!": "parafuso/line_1thv5ru.mp3",
+      "Ops, apertei o botão errado!": "parafuso/line_1wm2yhd.mp3",
+      "Atualizando... cinquenta por cento... joga essa!": "parafuso/line_1l89v05.mp3"
+    },
+    "bets": {
+      "0": [
+        "parafuso/bet_0_0.mp3",
+        "parafuso/bet_0_1.mp3",
+        "parafuso/bet_0_2.mp3"
+      ],
+      "1": [
+        "parafuso/bet_1_0.mp3",
+        "parafuso/bet_1_1.mp3",
+        "parafuso/bet_1_2.mp3"
+      ],
+      "2": [
+        "parafuso/bet_2_0.mp3",
+        "parafuso/bet_2_1.mp3",
+        "parafuso/bet_2_2.mp3"
+      ],
+      "3": [
+        "parafuso/bet_3_0.mp3",
+        "parafuso/bet_3_1.mp3",
+        "parafuso/bet_3_2.mp3"
+      ],
+      "4": [
+        "parafuso/bet_4_0.mp3",
+        "parafuso/bet_4_1.mp3",
+        "parafuso/bet_4_2.mp3"
+      ],
+      "5": [
+        "parafuso/bet_5_0.mp3",
+        "parafuso/bet_5_1.mp3",
+        "parafuso/bet_5_2.mp3"
+      ],
+      "6": [
+        "parafuso/bet_6_0.mp3",
+        "parafuso/bet_6_1.mp3",
+        "parafuso/bet_6_2.mp3"
+      ],
+      "7": [
+        "parafuso/bet_7_0.mp3",
+        "parafuso/bet_7_1.mp3",
+        "parafuso/bet_7_2.mp3"
+      ],
+      "8": [
+        "parafuso/bet_8_0.mp3",
+        "parafuso/bet_8_1.mp3",
+        "parafuso/bet_8_2.mp3"
+      ],
+      "9": [
+        "parafuso/bet_9_0.mp3",
+        "parafuso/bet_9_1.mp3",
+        "parafuso/bet_9_2.mp3"
+      ],
+      "10": [
+        "parafuso/bet_10_0.mp3",
+        "parafuso/bet_10_1.mp3",
+        "parafuso/bet_10_2.mp3"
+      ]
+    },
+    "faces": {
+      "bravo": [
+        "parafuso/face_bravo_0.mp3",
+        "parafuso/face_bravo_1.mp3",
+        "parafuso/face_bravo_2.mp3"
+      ],
+      "rindo": [
+        "parafuso/face_rindo_0.mp3",
+        "parafuso/face_rindo_1.mp3",
+        "parafuso/face_rindo_2.mp3"
+      ],
+      "preocupado": [
+        "parafuso/face_preocupado_0.mp3",
+        "parafuso/face_preocupado_1.mp3",
+        "parafuso/face_preocupado_2.mp3"
+      ],
+      "surpreso": [
+        "parafuso/face_surpreso_0.mp3",
+        "parafuso/face_surpreso_1.mp3",
+        "parafuso/face_surpreso_2.mp3"
+      ]
+    }
+  },
+  "barreto": {
+    "lines": {
+      "Hahaha! Essa foi boa, hein?": "barreto/line_j8bhu4.mp3",
+      "Tá vendo? O tio avisou!": "barreto/line_h2271k.mp3",
+      "Chora não, sobrinho!": "barreto/line_r6bfj7.mp3",
+      "Essa vai pro grupo da família!": "barreto/line_1lbwkoc.mp3",
+      "Esse baralho tá viciado!": "barreto/line_vdy3tv.mp3",
+      "Quem embaralhou isso aí?": "barreto/line_1ss1x6w.mp3",
+      "Sacanagem com o tio!": "barreto/line_1a8a6kg.wav",
+      "Tá pensando que eu sou bobo?": "barreto/line_hwuz8v.mp3",
+      "O tio é o tio!": "barreto/line_8ndchx.mp3",
+      "Experiência, sobrinho!": "barreto/line_17z9ciw.mp3",
+      "Anota aí: o tio acertou!": "barreto/line_fbaw33.mp3",
+      "Aprendeu, sobrinho?": "barreto/line_e88ux4.mp3",
+      "A culpa é do baralho.": "barreto/line_1cs9ba6.mp3",
+      "Foi o dealer que deu mal!": "barreto/line_191vtnn.mp3",
+      "Eu tava contando piada, perdi a conta!": "barreto/line_or3niv.wav",
+      "Distraí com o salgadinho.": "barreto/line_xlh49b.mp3",
+      "Embuchou! Igual meu estômago no Natal!": "barreto/line_1u50jwp.mp3",
+      "Embuchou! Igual churrasco de domingo!": "barreto/line_1njnqs1.mp3",
+      "Embuchou! Ninguém leva, igual herança!": "barreto/line_1wzjiya.mp3",
+      "Embuchou! Igual fila de banco!": "barreto/line_qgg63d.mp3",
+      "Ninguém cobre? Sobrou pro tio, igual pavê!": "barreto/line_99m1wt.mp3",
+      "Cobre aí, sobrinho! O tio tá de dieta!": "barreto/line_mc5900.mp3",
+      "Vai sobrar pra mim, igual louça de domingo!": "barreto/line_1smt2g1.mp3",
+      "Sobrou pro tio? Igual conta do churrasco!": "barreto/line_x5is5c.mp3",
+      "Agora o tio tem que levar todas!": "barreto/line_65t44x.mp3",
+      "Tudo ou nada, igual bingo da paróquia!": "barreto/line_uenl6a.mp3",
+      "Me cobriram? O tio vai com tudo!": "barreto/line_b1pr98.mp3",
+      "Tudo ou nada, igual aposta de futebol!": "barreto/line_94hynu.mp3",
+      "Manilha no tio? Falta de respeito!": "barreto/line_1g6sz0k.mp3",
+      "Manilha no tio? Que presente de grego!": "barreto/line_1eqeie.mp3",
+      "Essa manilha doeu mais que a conta do bar!": "barreto/line_xtb0i4.mp3",
+      "Manilha no tio? Isso é piada? Não tem graça!": "barreto/line_p30tw5.mp3",
+      "É pavê ou pacumê?": "barreto/line_kjt5uq.mp3",
+      "Senta aí, sobrinho, que o tio vai te ensinar.": "barreto/line_ze0v1j.mp3",
+      "Pode me chamar de tio, todo mundo chama!": "barreto/line_1frxxvk.mp3",
+      "Sabia que o tio foi campeão de Fodinha em noventa e oito?": "barreto/line_1e73r8v.mp3",
+      "Por que o jacaré tirou o filho da escola? Porque ele réptil de ano!": "barreto/line_1t870mv.wav",
+      "O que o pato disse pra pata? Vem quá!": "barreto/line_grm6pe.wav",
+      "Qual é o doce preferido do átomo? Pé de molécula!": "barreto/line_ekna52.mp3",
+      "Por que a vaca foi pro espaço? Pra conhecer a Via Láctea!": "barreto/line_xv217k.mp3",
+      "Sabe o que o zero disse pro oito? Que cinto bonito!": "barreto/line_1p0z5mo.mp3",
+      "Qual é o peixe que caiu do décimo andar? Aaaatum!": "barreto/line_11ym9q8.mp3",
+      "Por que o livro de matemática ficou triste? Porque tinha muitos problemas!": "barreto/line_9een1e.mp3",
+      "O que o tomate foi fazer no banco? Tirar extrato!": "barreto/line_dlraon.mp3"
+    },
+    "bets": {
+      "0": [
+        "barreto/bet_0_0.mp3",
+        "barreto/bet_0_1.mp3",
+        "barreto/bet_0_2.mp3"
+      ],
+      "1": [
+        "barreto/bet_1_0.mp3",
+        "barreto/bet_1_1.wav",
+        "barreto/bet_1_2.wav"
+      ],
+      "2": [
+        "barreto/bet_2_0.mp3",
+        "barreto/bet_2_1.mp3",
+        "barreto/bet_2_2.mp3"
+      ],
+      "3": [
+        "barreto/bet_3_0.wav",
+        "barreto/bet_3_1.mp3",
+        "barreto/bet_3_2.mp3"
+      ],
+      "4": [
+        "barreto/bet_4_0.mp3",
+        "barreto/bet_4_1.mp3",
+        "barreto/bet_4_2.mp3"
+      ],
+      "5": [
+        "barreto/bet_5_0.mp3",
+        "barreto/bet_5_1.mp3",
+        "barreto/bet_5_2.mp3"
+      ],
+      "6": [
+        "barreto/bet_6_0.mp3",
+        "barreto/bet_6_1.mp3",
+        "barreto/bet_6_2.wav"
+      ],
+      "7": [
+        "barreto/bet_7_0.mp3",
+        "barreto/bet_7_1.mp3",
+        "barreto/bet_7_2.mp3"
+      ],
+      "8": [
+        "barreto/bet_8_0.mp3",
+        "barreto/bet_8_1.mp3",
+        "barreto/bet_8_2.mp3"
+      ],
+      "9": [
+        "barreto/bet_9_0.mp3",
+        "barreto/bet_9_1.mp3",
+        "barreto/bet_9_2.mp3"
+      ],
+      "10": [
+        "barreto/bet_10_0.mp3",
+        "barreto/bet_10_1.mp3",
+        "barreto/bet_10_2.mp3"
+      ]
+    },
+    "faces": {
+      "bravo": [
+        "barreto/face_bravo_0.mp3",
+        "barreto/face_bravo_1.mp3",
+        "barreto/face_bravo_2.mp3"
+      ],
+      "rindo": [
+        "barreto/face_rindo_0.mp3",
+        "barreto/face_rindo_1.mp3",
+        "barreto/face_rindo_2.wav"
+      ],
+      "preocupado": [
+        "barreto/face_preocupado_0.mp3",
+        "barreto/face_preocupado_1.mp3",
+        "barreto/face_preocupado_2.mp3"
+      ],
+      "surpreso": [
+        "barreto/face_surpreso_0.mp3",
+        "barreto/face_surpreso_1.mp3",
+        "barreto/face_surpreso_2.mp3"
+      ]
+    }
+  },
+  "stefany": {
+    "lines": {
+      "Gente, olha isso! Printa!": "stefany/line_15p41au.mp3",
+      "Isso vai pros stories!": "stefany/line_2y1ab5.mp3",
+      "Gente, ele se ferrou ao vivo!": "stefany/line_gs2zh6.mp3",
+      "Vai viralizar, gente!": "stefany/line_1mv88ex.wav",
+      "Gente, que vergonha alheia!": "stefany/line_z6zo7i.mp3",
+      "Tô passada!": "stefany/line_1duqctn.mp3",
+      "Corta essa parte, gente!": "stefany/line_1q73jc6.mp3",
+      "Ninguém viu isso, né?": "stefany/line_qdyu8g.mp3",
+      "Arrasei, né, amores?": "stefany/line_16efypt.mp3",
+      "Deixa o like!": "stefany/line_1jnuun9.mp3",
+      "Vitória com filtro e tudo!": "stefany/line_uw5yjc.mp3",
+      "Gente, eu sou muito boa!": "stefany/line_dw9eye.mp3",
+      "Isso não vai pro feed.": "stefany/line_1s8u39y.mp3",
+      "Apaga, apaga, apaga!": "stefany/line_cphhm4.mp3",
+      "Gente, foi o algoritmo!": "stefany/line_lfr9a8.mp3",
+      "Perdi, mas o engajamento subiu!": "stefany/line_5nzdmv.mp3",
+      "Embuchou! Muito conteúdo!": "stefany/line_ve8qab.mp3",
+      "Gente, embuchou! Que reviravolta!": "stefany/line_nwgogo.mp3",
+      "Embuchou! Enquete nos stories!": "stefany/line_z4gj3j.mp3",
+      "Embuchou! Gente, que plot twist!": "stefany/line_11rh5nn.mp3",
+      "Gente, ninguém cobre? Vai sobrar pra mim!": "stefany/line_150ghud.mp3",
+      "Alguém cobre, gente! Tô ao vivo!": "stefany/line_1xhip1o.mp3",
+      "Gente, vou levar essa? Corta a live!": "stefany/line_h1tgfi.mp3",
+      "Gente, alguém me salva ao vivo!": "stefany/line_tvtv9d.mp3",
+      "Me cobriram? Agora é tudo ou nada, gente!": "stefany/line_17nd5m4.mp3",
+      "Tudo ou nada! Liga o flash!": "stefany/line_15txp85.mp3",
+      "Gente, agora tenho que levar todas!": "stefany/line_1un3xrh.mp3",
+      "Tudo ou nada, gente! Segura o like!": "stefany/line_1ommys5.mp3",
+      "Gente, manilha em mim? Que hate!": "stefany/line_i936g0.mp3",
+      "Manilha?! Vou expor nos stories!": "stefany/line_lxpo8x.mp3",
+      "Gente, tomei uma manilha! Que flop!": "stefany/line_18n9iwt.mp3",
+      "Manilha em mim? Gente, que cancelamento!": "stefany/line_13i03ag.mp3",
+      "Oi, gente! Tô ao vivo jogando Fodinha!": "stefany/line_h1j1jp.mp3",
+      "Me segue que eu te sigo de volta!": "stefany/line_16tkn0w.mp3",
+      "Espera, deixa eu tirar uma selfie antes!": "stefany/line_dj2f8v.mp3",
+      "Gente, bora, que hoje tem live!": "stefany/line_117fjw.mp3"
+    },
+    "bets": {
+      "0": [
+        "stefany/bet_0_0.mp3",
+        "stefany/bet_0_1.mp3",
+        "stefany/bet_0_2.mp3"
+      ],
+      "1": [
+        "stefany/bet_1_0.mp3",
+        "stefany/bet_1_1.mp3",
+        "stefany/bet_1_2.mp3"
+      ],
+      "2": [
+        "stefany/bet_2_0.mp3",
+        "stefany/bet_2_1.mp3",
+        "stefany/bet_2_2.mp3"
+      ],
+      "3": [
+        "stefany/bet_3_0.mp3",
+        "stefany/bet_3_1.mp3",
+        "stefany/bet_3_2.mp3"
+      ],
+      "4": [
+        "stefany/bet_4_0.mp3",
+        "stefany/bet_4_1.mp3",
+        "stefany/bet_4_2.mp3"
+      ],
+      "5": [
+        "stefany/bet_5_0.mp3",
+        "stefany/bet_5_1.mp3",
+        "stefany/bet_5_2.mp3"
+      ],
+      "6": [
+        "stefany/bet_6_0.mp3",
+        "stefany/bet_6_1.mp3",
+        "stefany/bet_6_2.mp3"
+      ],
+      "7": [
+        "stefany/bet_7_0.mp3",
+        "stefany/bet_7_1.mp3",
+        "stefany/bet_7_2.mp3"
+      ],
+      "8": [
+        "stefany/bet_8_0.mp3",
+        "stefany/bet_8_1.mp3",
+        "stefany/bet_8_2.mp3"
+      ],
+      "9": [
+        "stefany/bet_9_0.mp3",
+        "stefany/bet_9_1.mp3",
+        "stefany/bet_9_2.mp3"
+      ],
+      "10": [
+        "stefany/bet_10_0.mp3",
+        "stefany/bet_10_1.mp3",
+        "stefany/bet_10_2.mp3"
+      ]
+    },
+    "faces": {
+      "bravo": [
+        "stefany/face_bravo_0.mp3",
+        "stefany/face_bravo_1.mp3",
+        "stefany/face_bravo_2.mp3"
+      ],
+      "rindo": [
+        "stefany/face_rindo_0.mp3",
+        "stefany/face_rindo_1.mp3",
+        "stefany/face_rindo_2.mp3"
+      ],
+      "preocupado": [
+        "stefany/face_preocupado_0.mp3",
+        "stefany/face_preocupado_1.mp3",
+        "stefany/face_preocupado_2.mp3"
+      ],
+      "surpreso": [
+        "stefany/face_surpreso_0.mp3",
+        "stefany/face_surpreso_1.mp3",
+        "stefany/face_surpreso_2.mp3"
+      ]
+    }
+  },
+  "zuleica": {
+    "lines": {
+      "Eu vi isso nas cartas.": "zuleica/line_dliaqy.mp3",
+      "O destino é implacável.": "zuleica/line_4y5g9r.mp3",
+      "Os astros avisaram você.": "zuleica/line_1bt6anr.mp3",
+      "Estava escrito na sua mão.": "zuleica/line_1ulwqyv.mp3",
+      "As energias estão confusas!": "zuleica/line_17zzj1k.mp3",
+      "Mercúrio retrógrado!": "zuleica/line_8jd77y.mp3",
+      "Alguém quebrou o meu espelho!": "zuleica/line_6fbiz2.mp3",
+      "Uma nuvem escura passou por aqui.": "zuleica/line_1i4ndds.mp3",
+      "Estava escrito.": "zuleica/line_1s5y0g.mp3",
+      "Os astros nunca mentem.": "zuleica/line_ykgiks.mp3",
+      "Eu previ. Como sempre.": "zuleica/line_ejz89n.mp3",
+      "O cristal não falha.": "zuleica/line_1pj6ws0.mp3",
+      "A bola de cristal embaçou.": "zuleica/line_4nywwd.mp3",
+      "Interferência espiritual!": "zuleica/line_1872ajw.mp3",
+      "Os astros estavam de folga.": "zuleica/line_1gaoxis.mp3",
+      "Foi a lua. Com certeza foi a lua.": "zuleica/line_7dcuds.mp3",
+      "Embuchou... eu previ isso.": "zuleica/line_4g4a4z.mp3",
+      "Embuchou! Um sinal do além!": "zuleica/line_y4qtym.mp3",
+      "Embuchou... as cartas se recusam.": "zuleica/line_c449gv.mp3",
+      "Embuchou... o universo pediu empate.": "zuleica/line_e4o28i.mp3",
+      "Ninguém cobre... o destino me escolheu.": "zuleica/line_h0wvla.mp3",
+      "Os astros querem que eu leve essa!": "zuleica/line_8xto40.mp3",
+      "Eu previ isso. E mesmo assim dói.": "zuleica/line_1jt9nnm.mp3",
+      "Ninguém cobre? Os astros me abandonaram.": "zuleica/line_1aexpmg.mp3",
+      "Me cobriram? Os astros exigem todas!": "zuleica/line_10rzu8u.mp3",
+      "Tudo ou nada. Está escrito.": "zuleica/line_8elbsr.mp3",
+      "O cristal diz: vou ter que levar todas.": "zuleica/line_16fnosa.mp3",
+      "Tudo ou nada... as cartas vão decidir.": "zuleica/line_15jydmn.mp3",
+      "Manilha! Os astros me traíram!": "zuleica/line_1ow8pd1.mp3",
+      "Uma manilha... eu senti essa energia.": "zuleica/line_1fzn1jy.mp3",
+      "Manilha em mim? O cristal não mostrou!": "zuleica/line_6ug5ou.mp3",
+      "Manilha! Eu devia ter consultado o tarô.": "zuleica/line_2onrtu.mp3",
+      "Eu já sabia que você ia clicar em mim.": "zuleica/line_ifuow2.mp3",
+      "Vejo uma derrota no seu futuro... a sua.": "zuleica/line_5kpuse.mp3",
+      "Cruze minha mão com uma carta e eu revelo seu destino.": "zuleica/line_svx5j8.mp3",
+      "Sua aura está... interessante. Sente-se.": "zuleica/line_1lxufnn.mp3"
+    },
+    "bets": {
+      "0": [
+        "zuleica/bet_0_0.mp3",
+        "zuleica/bet_0_1.mp3",
+        "zuleica/bet_0_2.mp3"
+      ],
+      "1": [
+        "zuleica/bet_1_0.mp3",
+        "zuleica/bet_1_1.mp3",
+        "zuleica/bet_1_2.mp3"
+      ],
+      "2": [
+        "zuleica/bet_2_0.mp3",
+        "zuleica/bet_2_1.mp3",
+        "zuleica/bet_2_2.mp3"
+      ],
+      "3": [
+        "zuleica/bet_3_0.mp3",
+        "zuleica/bet_3_1.mp3",
+        "zuleica/bet_3_2.mp3"
+      ],
+      "4": [
+        "zuleica/bet_4_0.mp3",
+        "zuleica/bet_4_1.mp3",
+        "zuleica/bet_4_2.mp3"
+      ],
+      "5": [
+        "zuleica/bet_5_0.mp3",
+        "zuleica/bet_5_1.mp3",
+        "zuleica/bet_5_2.mp3"
+      ],
+      "6": [
+        "zuleica/bet_6_0.mp3",
+        "zuleica/bet_6_1.mp3",
+        "zuleica/bet_6_2.mp3"
+      ],
+      "7": [
+        "zuleica/bet_7_0.mp3",
+        "zuleica/bet_7_1.mp3",
+        "zuleica/bet_7_2.mp3"
+      ],
+      "8": [
+        "zuleica/bet_8_0.mp3",
+        "zuleica/bet_8_1.mp3",
+        "zuleica/bet_8_2.mp3"
+      ],
+      "9": [
+        "zuleica/bet_9_0.mp3",
+        "zuleica/bet_9_1.mp3",
+        "zuleica/bet_9_2.mp3"
+      ],
+      "10": [
+        "zuleica/bet_10_0.mp3",
+        "zuleica/bet_10_1.mp3",
+        "zuleica/bet_10_2.mp3"
+      ]
+    },
+    "faces": {
+      "bravo": [
+        "zuleica/face_bravo_0.mp3",
+        "zuleica/face_bravo_1.mp3",
+        "zuleica/face_bravo_2.mp3"
+      ],
+      "rindo": [
+        "zuleica/face_rindo_0.mp3",
+        "zuleica/face_rindo_1.mp3",
+        "zuleica/face_rindo_2.mp3"
+      ],
+      "preocupado": [
+        "zuleica/face_preocupado_0.mp3",
+        "zuleica/face_preocupado_1.mp3",
+        "zuleica/face_preocupado_2.mp3"
+      ],
+      "surpreso": [
+        "zuleica/face_surpreso_0.mp3",
+        "zuleica/face_surpreso_1.mp3",
+        "zuleica/face_surpreso_2.mp3"
+      ]
+    }
+  },
+  "tonhao": {
+    "lines": {
+      "Aguenta o peso, frango!": "tonhao/line_1y5vn4q.mp3",
+      "Isso aqui é treino de verdade!": "tonhao/line_1s20v2q.mp3",
+      "Toma, que é proteína!": "tonhao/line_1pxi9b1.mp3",
+      "Tá fraco, parceiro! Tá fraco!": "tonhao/line_17tj9rc.mp3",
+      "Tá pesado, tá pesado!": "tonhao/line_1x92ius.mp3",
+      "Sem dor, sem ganho!": "tonhao/line_r2689a.mp3",
+      "Pegou pesado comigo!": "tonhao/line_1p9ieow.mp3",
+      "Essa doeu mais que agachamento!": "tonhao/line_11bohxo.mp3",
+      "É carga, parceiro!": "tonhao/line_gqh6oe.mp3",
+      "Shape de campeão!": "tonhao/line_4rg4c8.mp3",
+      "Isso aqui é disciplina!": "tonhao/line_hq3399.mp3",
+      "Série completa!": "tonhao/line_msbbh3.mp3",
+      "Faltou proteína.": "tonhao/line_fw0eis.wav",
+      "Amanhã eu compenso no supino.": "tonhao/line_1j8llp0.mp3",
+      "Treino ruim acontece.": "tonhao/line_3jwadf.mp3",
+      "Faltou descanso, só isso.": "tonhao/line_1t3doqm.mp3",
+      "Embuchou igual meu pré-treino!": "tonhao/line_9pf4g0.mp3",
+      "Embuchou! Travou a série!": "tonhao/line_1852g4d.mp3",
+      "Embuchou! Empatou na carga!": "tonhao/line_13txu87.mp3",
+      "Embuchou! Empatou no braço!": "tonhao/line_xule1u.mp3",
+      "Ninguém cobre? Tá pesado, parceiro!": "tonhao/line_16up7yx.mp3",
+      "Vai sobrar pra mim? Carga extra não!": "tonhao/line_94lemu.mp3",
+      "Cobre aí, frango! Essa eu não quero!": "tonhao/line_kxgst7.mp3",
+      "Ninguém cobre? Vou carregar sozinho!": "tonhao/line_hi8582.mp3",
+      "Me cobriram? Agora é série até a falha!": "tonhao/line_cul55c.mp3",
+      "Tudo ou nada! Bora, que é carga!": "tonhao/line_1q4nmu5.mp3",
+      "Agora eu levo todas. É treino!": "tonhao/line_fy14qr.mp3",
+      "Tudo ou nada! Última série, bora!": "tonhao/line_1xatouw.mp3",
+      "Manilha? Essa pesou mais que o supino!": "tonhao/line_vqpn2x.mp3",
+      "Manilha em cima de mim? Covardia, parceiro!": "tonhao/line_y8dy9t.mp3",
+      "Manilha? Eu aguento, é só mais carga!": "tonhao/line_1lncz2n.mp3",
+      "Manilha? Essa foi carga máxima!": "tonhao/line_s7c1k4.mp3",
+      "Bora, que hoje é dia de carga!": "tonhao/line_hj17p.mp3",
+      "Isso aqui é old school, parceiro. Sem frescura!": "tonhao/line_pamcr7.mp3",
+      "Tá treinando? Tá com cara de quem pula dia de perna.": "tonhao/line_pgecgm.mp3",
+      "Bora, frango! Hoje ninguém pula série!": "tonhao/line_msw31b.mp3"
+    },
+    "bets": {
+      "0": [
+        "tonhao/bet_0_0.mp3",
+        "tonhao/bet_0_1.mp3",
+        "tonhao/bet_0_2.mp3"
+      ],
+      "1": [
+        "tonhao/bet_1_0.mp3",
+        "tonhao/bet_1_1.mp3",
+        "tonhao/bet_1_2.mp3"
+      ],
+      "2": [
+        "tonhao/bet_2_0.mp3",
+        "tonhao/bet_2_1.mp3",
+        "tonhao/bet_2_2.mp3"
+      ],
+      "3": [
+        "tonhao/bet_3_0.mp3",
+        "tonhao/bet_3_1.mp3",
+        "tonhao/bet_3_2.mp3"
+      ],
+      "4": [
+        "tonhao/bet_4_0.mp3",
+        "tonhao/bet_4_1.mp3",
+        "tonhao/bet_4_2.mp3"
+      ],
+      "5": [
+        "tonhao/bet_5_0.mp3",
+        "tonhao/bet_5_1.mp3",
+        "tonhao/bet_5_2.mp3"
+      ],
+      "6": [
+        "tonhao/bet_6_0.mp3",
+        "tonhao/bet_6_1.mp3",
+        "tonhao/bet_6_2.mp3"
+      ],
+      "7": [
+        "tonhao/bet_7_0.mp3",
+        "tonhao/bet_7_1.mp3",
+        "tonhao/bet_7_2.mp3"
+      ],
+      "8": [
+        "tonhao/bet_8_0.mp3",
+        "tonhao/bet_8_1.mp3",
+        "tonhao/bet_8_2.mp3"
+      ],
+      "9": [
+        "tonhao/bet_9_0.mp3",
+        "tonhao/bet_9_1.mp3",
+        "tonhao/bet_9_2.mp3"
+      ],
+      "10": [
+        "tonhao/bet_10_0.mp3",
+        "tonhao/bet_10_1.mp3",
+        "tonhao/bet_10_2.mp3"
+      ]
+    },
+    "faces": {
+      "bravo": [
+        "tonhao/face_bravo_0.mp3",
+        "tonhao/face_bravo_1.mp3",
+        "tonhao/face_bravo_2.mp3"
+      ],
+      "rindo": [
+        "tonhao/face_rindo_0.mp3",
+        "tonhao/face_rindo_1.mp3",
+        "tonhao/face_rindo_2.mp3"
+      ],
+      "preocupado": [
+        "tonhao/face_preocupado_0.mp3",
+        "tonhao/face_preocupado_1.mp3",
+        "tonhao/face_preocupado_2.mp3"
+      ],
+      "surpreso": [
+        "tonhao/face_surpreso_0.mp3",
+        "tonhao/face_surpreso_1.mp3",
+        "tonhao/face_surpreso_2.mp3"
+      ]
+    }
+  },
+  "lola": {
+    "lines": {
+      "Ai, que pena, meu bem.": "lola/line_s38llr.wav",
+      "Não chora, lindinho.": "lola/line_rathb5.mp3",
+      "Ops... foi sem querer, amor.": "lola/line_hc10o1.mp3",
+      "Quem mandou brincar comigo?": "lola/line_6b6h6n.mp3",
+      "Você teve coragem?!": "lola/line_1fud2tl.mp3",
+      "Achei que a gente era amigos...": "lola/line_15q0xq8.mp3",
+      "Que falta de cavalheirismo!": "lola/line_431qax.mp3",
+      "Assim você me magoa, lindinho.": "lola/line_19v40my.mp3",
+      "Ninguém resiste a mim.": "lola/line_bfb1l9.wav",
+      "Obrigada, queridos.": "lola/line_jrky9w.mp3",
+      "Charme também é estratégia.": "lola/line_1j3otw3.mp3",
+      "Eu sempre consigo o que quero.": "lola/line_u90l4h.mp3",
+      "Isso não se faz com uma dama.": "lola/line_ttp5mn.mp3",
+      "Tudo culpa de vocês, amores.": "lola/line_1vaalad.mp3",
+      "Hoje não é meu dia, meu bem.": "lola/line_lpxhj2.mp3",
+      "Vocês não têm coração.": "lola/line_1dvjkyp.mp3",
+      "Embuchou? Que deselegante.": "lola/line_1py7ywm.wav",
+      "Embuchou... que coisa sem graça.": "lola/line_pilr7a.wav",
+      "Embuchou! Ninguém ganha, ninguém chora.": "lola/line_gxqnxu.mp3",
+      "Embuchou? Que falta de romance.": "lola/line_1px1d63.mp3",
+      "Ninguém vai me salvar dessa, meu bem?": "lola/line_1shbk7h.mp3",
+      "Nenhum cavalheiro pra me cobrir?": "lola/line_kem3oj.mp3",
+      "Vão deixar sobrar pra mim? Que feio!": "lola/line_1e5q8br.mp3",
+      "Ninguém cobre? Que falta de gentileza!": "lola/line_1gp3746.mp3",
+      "Me cobriram? Agora eu quero todas, amor.": "lola/line_3z1qvt.mp3",
+      "Tudo ou nada, lindinho. Me aguarde.": "lola/line_fn4ild.mp3",
+      "Magoou... agora vou levar todas.": "lola/line_j43try.mp3",
+      "Agora é tudo ou nada, meu bem.": "lola/line_1a9ztsx.mp3",
+      "Manilha em mim? Que grosseria, amor!": "lola/line_159voix.mp3",
+      "Gastou a manilha comigo, lindinho?": "lola/line_12wwbld.mp3",
+      "Manilha em cima de mim? Que ousadia!": "lola/line_kfyb8o.mp3",
+      "Manilha, lindinho? Achei que me amava.": "lola/line_12aa6lm.mp3",
+      "Oi, lindinho... joga comigo?": "lola/line_a6c0g6.wav",
+      "Você vai me deixar ganhar, né, meu bem?": "lola/line_19iro68.wav",
+      "Senta aqui do meu lado, que dá sorte.": "lola/line_1cbj8u9.mp3",
+      "Me escolhe, vai... você não vai se arrepender.": "lola/line_pexzo0.mp3",
+      "Deixa essa pra mim, vai, meu bem?": "lola/line_1jciiqc.mp3",
+      "Você não vai me cobrir, né, lindinho?": "lola/line_1mcmdsd.wav",
+      "Seja um cavalheiro: deixa essa comigo.": "lola/line_r3e82t.wav",
+      "Só essa, meu bem. Depois eu te compenso.": "lola/line_3a0qwl.wav"
+    },
+    "bets": {
+      "0": [
+        "lola/bet_0_0.mp3",
+        "lola/bet_0_1.wav",
+        "lola/bet_0_2.mp3"
+      ],
+      "1": [
+        "lola/bet_1_0.mp3",
+        "lola/bet_1_1.wav",
+        "lola/bet_1_2.mp3"
+      ],
+      "2": [
+        "lola/bet_2_0.mp3",
+        "lola/bet_2_1.mp3",
+        "lola/bet_2_2.wav"
+      ],
+      "3": [
+        "lola/bet_3_0.mp3",
+        "lola/bet_3_1.mp3",
+        "lola/bet_3_2.mp3"
+      ],
+      "4": [
+        "lola/bet_4_0.mp3",
+        "lola/bet_4_1.wav",
+        "lola/bet_4_2.mp3"
+      ],
+      "5": [
+        "lola/bet_5_0.mp3",
+        "lola/bet_5_1.mp3",
+        "lola/bet_5_2.mp3"
+      ],
+      "6": [
+        "lola/bet_6_0.mp3",
+        "lola/bet_6_1.mp3",
+        "lola/bet_6_2.mp3"
+      ],
+      "7": [
+        "lola/bet_7_0.mp3",
+        "lola/bet_7_1.wav",
+        "lola/bet_7_2.wav"
+      ],
+      "8": [
+        "lola/bet_8_0.mp3",
+        "lola/bet_8_1.wav",
+        "lola/bet_8_2.mp3"
+      ],
+      "9": [
+        "lola/bet_9_0.wav",
+        "lola/bet_9_1.wav",
+        "lola/bet_9_2.mp3"
+      ],
+      "10": [
+        "lola/bet_10_0.mp3",
+        "lola/bet_10_1.mp3",
+        "lola/bet_10_2.mp3"
+      ]
+    },
+    "faces": {
+      "bravo": [
+        "lola/face_bravo_0.mp3",
+        "lola/face_bravo_1.mp3",
+        "lola/face_bravo_2.mp3"
+      ],
+      "rindo": [
+        "lola/face_rindo_0.mp3",
+        "lola/face_rindo_1.mp3",
+        "lola/face_rindo_2.mp3"
+      ],
+      "preocupado": [
+        "lola/face_preocupado_0.mp3",
+        "lola/face_preocupado_1.mp3",
+        "lola/face_preocupado_2.mp3"
+      ],
+      "surpreso": [
+        "lola/face_surpreso_0.mp3",
+        "lola/face_surpreso_1.mp3",
+        "lola/face_surpreso_2.mp3"
+      ]
+    }
+  },
+  "wesley": {
+    "lines": {
+      "Isso é foco, meu povo!": "wesley/line_bdo1rf.mp3",
+      "Mentalidade vencedora!": "wesley/line_5rxjit.wav",
+      "Vencedor não reclama: executa.": "wesley/line_1ecd02v.mp3",
+      "Isso aqui é resultado.": "wesley/line_1hvai59.wav",
+      "Não é derrota, é aprendizado!": "wesley/line_1ef2pja.mp3",
+      "O universo tá me testando!": "wesley/line_tdbsnt.wav",
+      "Todo campeão cai. E levanta.": "wesley/line_1pkxvv0.mp3",
+      "Anota: isso vai virar palestra.": "wesley/line_4eh75q.mp3",
+      "Acredita no processo!": "wesley/line_bef4ni.mp3",
+      "Gratidão! Foco, força e fé!": "wesley/line_2nzkp6.mp3",
+      "Disciplina gera resultado.": "wesley/line_a4tfph.mp3",
+      "Meta batida. Próxima meta.": "wesley/line_dpg9ug.mp3",
+      "Todo erro é um degrau!": "wesley/line_d377dj.mp3",
+      "Saí da zona de conforto!": "wesley/line_1cw5hvb.mp3",
+      "Faz parte da jornada.": "wesley/line_i5vs1g.mp3",
+      "Hoje eu plantei. Amanhã eu colho.": "wesley/line_l914ed.wav",
+      "Embuchou? Isso é sinergia!": "wesley/line_1ddsjkm.mp3",
+      "Embuchou. Respira e recalcula a rota.": "wesley/line_7n2qpj.mp3",
+      "Embuchou! Mais uma lição.": "wesley/line_1su92x3.mp3",
+      "Embuchou. Empate também é aprendizado.": "wesley/line_so4q4p.mp3",
+      "Ninguém cobre? Isso é teste de resiliência!": "wesley/line_1f0pgq1.wav",
+      "Vai sobrar pra mim? Respira e aceita.": "wesley/line_1305ubn.mp3",
+      "O universo quer que eu leve essa. Aceito.": "wesley/line_dnfwqi.mp3",
+      "Ninguém cobre? Aceita e evolui!": "wesley/line_1krmjmv.mp3",
+      "Me cobriram? Agora é modo campeão!": "wesley/line_18y915s.mp3",
+      "Tudo ou nada! Quem quer, dá um jeito!": "wesley/line_h7r1ni.mp3",
+      "Pressão é privilégio! Vou levar todas!": "wesley/line_r2tosc.mp3",
+      "Tudo ou nada? É aqui que o campeão aparece!": "wesley/line_1ddjm9h.mp3",
+      "Manilha em mim? Isso é crescimento!": "wesley/line_1sqw4xj.mp3",
+      "Tomei manilha. Cai sete, levanta oito!": "wesley/line_ksy7ek.mp3",
+      "Manilha? Isso vai virar case de sucesso!": "wesley/line_145st8r.mp3",
+      "Manilha? Isso é só combustível!": "wesley/line_o0fgvx.mp3",
+      "Bora pra cima, campeão! Hoje é dia de vitória!": "wesley/line_8kujdg.mp3",
+      "Você não perde: você aprende! Mas hoje você perde.": "wesley/line_1hgpwju.mp3",
+      "Levanta dessa cadeira e vem jogar! Foco!": "wesley/line_wbsehe.mp3",
+      "Escuta: quem não aposta em si mesmo já perdeu.": "wesley/line_g03c6p.mp3"
+    },
+    "bets": {
+      "0": [
+        "wesley/bet_0_0.wav",
+        "wesley/bet_0_1.mp3",
+        "wesley/bet_0_2.mp3"
+      ],
+      "1": [
+        "wesley/bet_1_0.mp3",
+        "wesley/bet_1_1.mp3",
+        "wesley/bet_1_2.mp3"
+      ],
+      "2": [
+        "wesley/bet_2_0.mp3",
+        "wesley/bet_2_1.mp3",
+        "wesley/bet_2_2.mp3"
+      ],
+      "3": [
+        "wesley/bet_3_0.mp3",
+        "wesley/bet_3_1.mp3",
+        "wesley/bet_3_2.mp3"
+      ],
+      "4": [
+        "wesley/bet_4_0.mp3",
+        "wesley/bet_4_1.mp3",
+        "wesley/bet_4_2.mp3"
+      ],
+      "5": [
+        "wesley/bet_5_0.mp3",
+        "wesley/bet_5_1.wav",
+        "wesley/bet_5_2.mp3"
+      ],
+      "6": [
+        "wesley/bet_6_0.wav",
+        "wesley/bet_6_1.mp3",
+        "wesley/bet_6_2.mp3"
+      ],
+      "7": [
+        "wesley/bet_7_0.mp3",
+        "wesley/bet_7_1.mp3",
+        "wesley/bet_7_2.mp3"
+      ],
+      "8": [
+        "wesley/bet_8_0.mp3",
+        "wesley/bet_8_1.mp3",
+        "wesley/bet_8_2.mp3"
+      ],
+      "9": [
+        "wesley/bet_9_0.mp3",
+        "wesley/bet_9_1.mp3",
+        "wesley/bet_9_2.mp3"
+      ],
+      "10": [
+        "wesley/bet_10_0.mp3",
+        "wesley/bet_10_1.mp3",
+        "wesley/bet_10_2.mp3"
+      ]
+    },
+    "faces": {
+      "bravo": [
+        "wesley/face_bravo_0.mp3",
+        "wesley/face_bravo_1.mp3",
+        "wesley/face_bravo_2.mp3"
+      ],
+      "rindo": [
+        "wesley/face_rindo_0.mp3",
+        "wesley/face_rindo_1.mp3",
+        "wesley/face_rindo_2.mp3"
+      ],
+      "preocupado": [
+        "wesley/face_preocupado_0.mp3",
+        "wesley/face_preocupado_1.mp3",
+        "wesley/face_preocupado_2.wav"
+      ],
+      "surpreso": [
+        "wesley/face_surpreso_0.mp3",
+        "wesley/face_surpreso_1.mp3",
+        "wesley/face_surpreso_2.mp3"
+      ]
+    }
+  }
+}

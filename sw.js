@@ -1,8 +1,8 @@
 // Service worker padrão dos jogos (app instalável que abre rápido e funciona sem internet).
 // Copie para a pasta public/ do jogo (vai para a raiz do build, ao lado do index.html).
-// O publicar.ps1 troca 2026.09.27-2236 pela data da publicação: cada versão nova apaga o cache antigo
+// O publicar.ps1 troca 2026.09.28-0015 pela data da publicação: cada versão nova apaga o cache antigo
 // e o jogo baixa de novo o que precisar (quem abre o app com internet já pega a versão nova).
-const VERSAO = '2026.09.27-2236';
+const VERSAO = '2026.09.28-0015';
 // vários jogos podem morar no mesmo site (ex.: guheck.github.io/jogo-a e /jogo-b): o nome do cache leva o endereço do jogo
 const PREFIXO = `jogo:${self.registration.scope}:`;
 const CACHE = PREFIXO + VERSAO;
@@ -34,10 +34,12 @@ self.addEventListener('fetch', (e) => {
   const local = url.origin === self.location.origin;
   if (!local && !FORA.includes(url.origin)) return;
 
-  // a página: tenta a internet primeiro (versão nova); sem internet, usa a guardada
+  // a página: tenta a internet primeiro (versão nova); sem internet, usa a guardada.
+  // 'no-cache' confere com o servidor: sem isso o navegador pode entregar a página guardada há até 10 min
+  // (o GitHub Pages manda max-age=600) e a versão nova demora a aparecer
   if (local && req.mode === 'navigate') {
     e.respondWith(
-      fetch(req)
+      fetch(req.url, { cache: 'no-cache', credentials: 'same-origin' })
         .then((res) => {
           const copia = res.clone();
           caches.open(CACHE).then((c) => c.put('./index.html', copia));
@@ -48,12 +50,14 @@ self.addEventListener('fetch', (e) => {
     return;
   }
 
-  // o resto (código, imagens, sons, fontes): se já está guardado, usa; senão baixa e guarda
+  // o resto (código, imagens, sons, fontes): se já está guardado, usa; senão baixa e guarda.
+  // Ao baixar, confere com o servidor ('no-cache'): uma cópia velha do navegador nunca entra no cache da versão
+  // nova (misturar arquivos de versões diferentes deixava as falas cortadas no Fodinha)
   e.respondWith(
     caches.match(req).then(
       (guardado) =>
         guardado ||
-        fetch(req).then((res) => {
+        fetch(req, { cache: 'no-cache' }).then((res) => {
           if (res.ok || res.type === 'opaque') {
             const copia = res.clone();
             caches.open(CACHE).then((c) => c.put(req, copia));
